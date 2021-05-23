@@ -11,5 +11,5 @@ To run this project:
 #### npm start
 
 To display this project:
-[https://appointment-planner-qnn.surge.sh/contacts](https://appointment-planner-qnn.surge.sh/contacts)
+[https://appointment-planner-qnn.surge.sh](https://appointment-planner-qnn.surge.sh)
 
