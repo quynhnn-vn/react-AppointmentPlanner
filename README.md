@@ -12,3 +12,5 @@ To run this project:
 To display this project:
 [https://appointment-planner-qnn.netlify.app/](https://appointment-planner-qnn.netlify.app/)
 
+React Router will automatically redirect to: https://appointment-planner-qnn.netlify.app/contacts/ 
+
